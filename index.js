@@ -2,8 +2,7 @@ const names = [
   "Mario",
   "Luigi",
   "DK",
-  "Princess",
-  "Wario"
+  "Princess"
 ];
 
 console.log(names);

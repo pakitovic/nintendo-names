@@ -1,0 +1,15 @@
+{
+  "name": "nintendo-names",
+  "version": "1.0.0",
+  "description": "Devuelve los nombres de los personajes de Nintendo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nintendo",
+    "names"
+  ],
+  "author": "Francis",
+  "license": "MIT"
+}

@@ -5,4 +5,6 @@ const names = [
   "Princess"
 ];
 
-console.log(names);
+names.forEach(function(element) {
+  console.log(element);
+}, this);
